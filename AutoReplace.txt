@@ -1,0 +1,7 @@
+s# = SELECT * FROM
+echo = Custom\dbms_put_line.tpl
+td# = Custom\to_date.tpl
+ex# = Custom\exception_block.tpl
+nfs# = -- NoFormat Start
+nfe# = -- NoFormat End
+nf# = Custom\no_format.tpl
